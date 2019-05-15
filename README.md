@@ -14,6 +14,9 @@
 >taggit<br/>
 >captcha<br/>
 >xadmin<br/>
+>django-crispy-forms-1.7.2<br/>
+>django.contrib.formtools<br/>
+pip install django-simple-captcha
 
 3.安装
 -------------
